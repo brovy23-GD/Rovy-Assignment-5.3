@@ -1,3 +1,4 @@
+![Banner](screenshots/github-banner.png)
 # Rovy-Assignment-5.3
 
 ![Language](https://img.shields.io/badge/Language-C%23-239120?style=for-the-badge) ![.NET](https://img.shields.io/badge/.NET-8.0-blue?style=for-the-badge) ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge) ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey?style=for-the-badge)
