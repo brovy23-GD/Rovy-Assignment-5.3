@@ -1,0 +1,14 @@
+C:\Visual Studio Assignments\Assignment 5.3 Placing Flowers and Climbing Stairs\bin\Debug\net10.0\Assignment 5.3 Placing Flowers and Climbing Stairs.exe
+C:\Visual Studio Assignments\Assignment 5.3 Placing Flowers and Climbing Stairs\bin\Debug\net10.0\Assignment 5.3 Placing Flowers and Climbing Stairs.deps.json
+C:\Visual Studio Assignments\Assignment 5.3 Placing Flowers and Climbing Stairs\bin\Debug\net10.0\Assignment 5.3 Placing Flowers and Climbing Stairs.runtimeconfig.json
+C:\Visual Studio Assignments\Assignment 5.3 Placing Flowers and Climbing Stairs\bin\Debug\net10.0\Assignment 5.3 Placing Flowers and Climbing Stairs.dll
+C:\Visual Studio Assignments\Assignment 5.3 Placing Flowers and Climbing Stairs\bin\Debug\net10.0\Assignment 5.3 Placing Flowers and Climbing Stairs.pdb
+C:\Visual Studio Assignments\Assignment 5.3 Placing Flowers and Climbing Stairs\obj\Debug\net10.0\Assignment 5.3 Placing Flowers and Climbing Stairs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio Assignments\Assignment 5.3 Placing Flowers and Climbing Stairs\obj\Debug\net10.0\Assignment 5.3 Placing Flowers and Climbing Stairs.AssemblyInfoInputs.cache
+C:\Visual Studio Assignments\Assignment 5.3 Placing Flowers and Climbing Stairs\obj\Debug\net10.0\Assignment 5.3 Placing Flowers and Climbing Stairs.AssemblyInfo.cs
+C:\Visual Studio Assignments\Assignment 5.3 Placing Flowers and Climbing Stairs\obj\Debug\net10.0\Assignment 5.3 Placing Flowers and Climbing Stairs.csproj.CoreCompileInputs.cache
+C:\Visual Studio Assignments\Assignment 5.3 Placing Flowers and Climbing Stairs\obj\Debug\net10.0\Assignment 5.3 Placing Flowers and Climbing Stairs.dll
+C:\Visual Studio Assignments\Assignment 5.3 Placing Flowers and Climbing Stairs\obj\Debug\net10.0\refint\Assignment 5.3 Placing Flowers and Climbing Stairs.dll
+C:\Visual Studio Assignments\Assignment 5.3 Placing Flowers and Climbing Stairs\obj\Debug\net10.0\Assignment 5.3 Placing Flowers and Climbing Stairs.pdb
+C:\Visual Studio Assignments\Assignment 5.3 Placing Flowers and Climbing Stairs\obj\Debug\net10.0\Assignment 5.3 Placing Flowers and Climbing Stairs.genruntimeconfig.cache
+C:\Visual Studio Assignments\Assignment 5.3 Placing Flowers and Climbing Stairs\obj\Debug\net10.0\ref\Assignment 5.3 Placing Flowers and Climbing Stairs.dll
